@@ -1,0 +1,19 @@
+h1 {
+    color: dimgray;
+    text-align: center;
+  }
+  
+  h2 {
+    color: dimgray;
+    text-align: center;
+  }
+  
+  h3 {
+    color: steelblue;
+    border-bottom: solid 1px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
